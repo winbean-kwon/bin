@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\ksbda\OneDrive\바탕 화면\2학년1학기\자료구조\레포트1\리포트1\소스.c(62,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년1학기\자료구조\레포트1\리포트1\소스.c(90): warning C4715: 'check_matching': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  리포트1.vcxproj -> C:\Users\ksbda\OneDrive\바탕 화면\2학년1학기\자료구조\레포트1\x64\Debug\리포트1.exe
