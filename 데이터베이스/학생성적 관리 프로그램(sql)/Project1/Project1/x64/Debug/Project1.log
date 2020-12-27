@@ -1,0 +1,11 @@
+﻿  소스.cpp
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\Project1\소스.cpp(7,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\Project1\소스.cpp(47,19): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'int'입니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\Project1\소스.cpp(47,19): warning C4313: 'sprintf': 서식 문자열의 '%s'이(가) 인수 5('int' 형식)과(와) 충돌합니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\Project1\소스.cpp(47,19): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'int'입니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\Project1\소스.cpp(47,19): warning C4313: 'sprintf': 서식 문자열의 '%s'이(가) 인수 6('int' 형식)과(와) 충돌합니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\Project1\소스.cpp(63,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\Project1\소스.cpp(78,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\Project1\소스.cpp(12,14): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\Project1\소스.cpp(12,6): warning C4101: 'fields' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\4주차\Project1\x64\Debug\Project1.exe

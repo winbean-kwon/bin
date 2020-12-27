@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\1971189 권승빈\실험\소스.cpp(241,8): warning C4101: 'fptr2' :참조되지 않은 지역 변수입니다.
+C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\1971189 권승빈\실험\소스.cpp(276,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  실험.vcxproj -> C:\Users\ksbda\OneDrive\바탕 화면\2학년 2학기\빅데이터 기초\장재영 교수님\1971189 권승빈\Debug\실험.exe
